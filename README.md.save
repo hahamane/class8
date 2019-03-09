@@ -1,0 +1,7 @@
+# class8
+how to sort 
+newdata = np.array[1,5,9,4,3,6,12,84,14,2,334,7]
+sorted(newdata)
+df = pd.Dataframe(newdata)
+sorted_df=df.sort(values(0)// 0 for column name
+
